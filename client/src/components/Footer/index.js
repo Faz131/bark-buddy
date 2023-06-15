@@ -7,7 +7,7 @@ const Footer = () => {
       <a
         target="_blank"
         rel="noopener noreferrer"
-        href="https://www.linkedin.com/in/chelwebdeveloper"
+        href="https://www.linkedin.com/in/mike-fazio/"
       >
         <i className="fab fa-linkedin"></i>
       </a>
@@ -21,7 +21,7 @@ const Footer = () => {
       <a
         target="_blank"
         rel="noopener noreferrer"
-        href="mailto:cfreitas12345@gmail.com"
+        href="mailto:test@test.com"
       >
         <i className="fas fa-envelope"></i>
       </a>
